@@ -1,3 +1,5 @@
+//Anastasiya Chabotska
+//CISC 3130 Assignment 1
 import java.io.*;
 import java.util.Scanner;
 
